@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">Shared Preferences</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="mobile">Mobile 1</string>
+    <string name="mobile2">Mobile 2</string>
+    <string name="city">City</string>
+    <string name="save">Save Data</string>
+    <string name="kill">Kill Activity</string>
 </resources>
